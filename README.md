@@ -4,7 +4,7 @@
 
 You can explore the live Figma prototype here:
 
-👉 [**View Figma Prototype**](https://www.figma.com/proto/abcd1234/EcoMarketplace?node-id=1-2)  
+👉 [**View Figma Prototype**](https://www.figma.com/proto/47KSSA7ImvB6XX8Ep120F3/Untitled?node-id=0-1&t=iwIP3E9Xr1mKJpXE-1)  
 *(Click the link above to open it in Figma — no login needed if your file is public)*
 
 ---
